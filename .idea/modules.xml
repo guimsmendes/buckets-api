@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/buckets-api.iml" filepath="$PROJECT_DIR$/buckets-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataprovider/dataprovider.iml" filepath="$PROJECT_DIR$/dataprovider/dataprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/domain/domain.iml" filepath="$PROJECT_DIR$/core/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrypoint/entrypoint.iml" filepath="$PROJECT_DIR$/entrypoint/entrypoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/input/input.iml" filepath="$PROJECT_DIR$/adapter/input/input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/output/output.iml" filepath="$PROJECT_DIR$/adapter/output/output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/quarkus-app/quarkus-app.iml" filepath="$PROJECT_DIR$/application/quarkus-app/quarkus-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/spring-app/spring-app.iml" filepath="$PROJECT_DIR$/application/spring-app/spring-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/use-case/use-case.iml" filepath="$PROJECT_DIR$/core/use-case/use-case.iml" />
+    </modules>
+  </component>
+</project>
